@@ -1,2 +1,3 @@
-# gtwiggs-gtwiggs.github.io
+# Glenn Twiggs
+
 GitHub Pages
