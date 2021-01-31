@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Glenn Twiggs
+title: GLENN TWIGGS
 email: gtwiggs@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   <a href="https://github.com/gtwiggs/">https://github.com/gtwiggs/</a>
