@@ -1,10 +1,6 @@
-# Glenn Twiggs
-
-## Pages
-
 - [Daisy Seed](pages/daisy-seed.md)
 
-## Archive
+**_Archive_**
 
 - [COVID Travel](pages/covid-travel.md)
 
