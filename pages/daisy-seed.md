@@ -48,6 +48,7 @@ Learning new software, hardware and concepts requires lots of research and sifti
 
 - [Daisy Forum dedicated to Pure Data projects on a Daisy Seed](https://forum.electro-smith.com/t/pure-data/110)
 - [pd2dsy](https://github.com/electro-smith/pd2dsy)
+- [Quick Guide on Setting Up a Custom JSON File for pd2dsy & Oopsy!](https://forum.electro-smith.com/t/quick-guide-on-setting-up-a-custom-json-file-for-pd2dsy-oopsy/4021)
 
 ## PureData
 
