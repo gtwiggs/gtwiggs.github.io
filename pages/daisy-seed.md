@@ -9,7 +9,7 @@ Learning new software, hardware and concepts requires lots of research and sifti
 - [DaisySeed Pinout](https://images.squarespace-cdn.com/content/v1/58d03fdc1b10e3bf442567b8/1638921637961-UEMNQ2S8CS4V1M040IVQ/Daisy_Seed_pinout.png)
 - [libDaisy](https://electro-smith.github.io/libDaisy/index.html) ~ C++ hardware support library
 - [My fork of Synthux-Academy/simple-designer-instruments](https://github.com/gtwiggs/simple-designer-instruments/tree/main)
-- Daisy supports the [I²C Protocol](https://en.wikipedia.org/wiki/I²C).
+- Daisy supports the [I²C Protocol](https://en.wikipedia.org/wiki/I²C). [All you need to know ...](https://hackaday.com/2019/04/18/all-you-need-to-know-about-i2s/)
 
 ### Debugger Probe
 
