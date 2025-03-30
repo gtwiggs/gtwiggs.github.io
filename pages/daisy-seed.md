@@ -44,6 +44,7 @@ Learning new software, hardware and concepts requires lots of research and sifti
     - [Start a debug session](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations) selecting `Cortex Debug` and clicking the adjacent green ***>*** to start.
     - Debug session must be terminated to upload changes.
     - When plugging in the ribbon cable, ensure the cable is inserted with the ribbon routed **_up_** when the USB port is to the left.
+ - [phryniszak/strtt](https://github.com/phryniszak/strtt) ~ Segger RTT client using ST-link debugger.
 
 ### DaisySeed <> PureData
 
