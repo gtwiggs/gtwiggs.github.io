@@ -27,3 +27,7 @@ $font-stack: 'Inconsolata, Courier New, Courier, monospace';
 //$hr-border-color: #eff0f1 !default;
 
 @import "{{ site.theme }}";
+
+body {
+    font-family: $font-stack;
+}
