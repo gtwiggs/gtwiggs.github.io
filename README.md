@@ -1,5 +1,3 @@
-# Glenn Twiggs
-
 - [Daisy Seed](pages/daisy-seed.md)
 - [SuperCollider](pages/supercollider.md)
 
